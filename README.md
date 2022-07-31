@@ -1,6 +1,7 @@
 ### Hi there! I'm Solomon 👋
 
-I'm a UI Engineer who loves to create beautiful UI and delightful UX from design to code
+I'm a UI Engineer who loves to create beautiful UI and
+delightful UX from design to code
 
 [![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=doziben&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
