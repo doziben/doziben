@@ -1,6 +1,6 @@
 ### Hi there! I'm Solomon 👋
 
-I'm a UI Engineer who loves to create beautiful UI and
+I'm a Design Engineer who loves to create beautiful UI and
 delightful UX from design to code
 
 <!--
